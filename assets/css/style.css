@@ -33,6 +33,66 @@ body {
     border-style: block;
     font-size: 35px;
     color: black;
+}
 
+/*...................Footer*/
 
+footer {
+    background-color: darkslateblue;
+    min-height: 40px;
+    position: block;
+    display: auto; 
+}
+
+.social-links {
+    padding-bottom: 0;
+}
+
+.social-links li a i {
+    width: 50px;
+    height: 50px;
+    padding: 12px 0;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 40px;
+    font-size: 23px;
+    background: #ffffff;
+    display: inline-block;
+    text-decoration: none;
+    color: darkgreen;
+    transition: all .5s glow;
+    -moz-transition: all .5s glow;
+    -o-transition: all .5s glow;
+    -webkit-transition: all .5s glow;
+}
+
+.social {
+    font-family: "Cinzel", arial;
+    font-size: 23px;
+    color: black;
+    margin-left: 138px;
+}
+
+.copyright {
+    font-family: "Cinzel", arial;
+    font-size: 23px;
+    color: black;
+    margin-left: 140px;
+    float: none:
+}
+
+.copyright p {
+    font-family: "Cinzel", arial;
+    font-size: 9px;
+    color: rgba(24, 52, 206, 0.555)
+}
+
+.button {
+    font-family: "Cinzel", arial;
+    font-size: 23px;
+    color: rgba(24, 52, 206, 0.555);
+    background: gold;
+    margin-left: 50px;
+    margin-top: 25px;
+    padding-right: 5px;
 }
