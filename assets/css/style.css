@@ -19,3 +19,20 @@ body {
     font-family: "Condiment", Arial, Helvetica, sans-serif;
     font-size: 40px;
 }
+.title1 {
+    font-family: "Condiment", Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.p1 {
+    font-family: "Cinzel", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+#navigation{
+    font-family: "Cinzel", Arial, Helvetica, sans-serif;
+    border-style: block;
+    font-size: 35px;
+    color: black;
+
+
+}
