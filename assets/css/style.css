@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Condiment|Cormorant+SC&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cormorant&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap'); 
+
+body {
+    font-family: "Cinzel+Decorative", Arial, Helvetica, sans-serif;
+    background-color: lightskyblue;
+}
+
+.heading {
+    font-family: "Cinzel", Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    display: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.title {
+    font-family: "Condiment", Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
