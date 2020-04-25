@@ -32,7 +32,7 @@ body {
     font-family: "Cinzel", Arial, Helvetica, sans-serif;
     border-style: block;
     font-size: 35px;
-    color: black;
+    color: lightgray;
 }
 
 /*...................Footer*/
@@ -40,7 +40,10 @@ body {
 footer {
     background-color: darkslateblue;
     min-height: 40px;
-    position: block;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     display: auto; 
 }
 
